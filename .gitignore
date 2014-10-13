@@ -37,3 +37,10 @@ com_crashlytics_export_strings.xml
 ### Meteor template
 .meteor/local
 .meteor/meteorite
+
+
+# compiled css
+*.css
+
+# node modules
+node_modules
