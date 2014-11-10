@@ -5,7 +5,11 @@
     "grunt": "^0.4.5"
   },
   "devDependencies": {
+    "bluebird": "^2.3.5",
     "grunt-contrib-stylus": "^0.20.0",
-    "grunt-demeteorizer": "^0.1.6"
+    "grunt-demeteorizer": "^0.1.6",
+    "knex": "^0.7.3",
+    "mongodb": "^1.4.19",
+    "mysql": "^2.5.2"
   }
 }

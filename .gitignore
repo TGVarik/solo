@@ -44,3 +44,5 @@ com_crashlytics_export_strings.xml
 
 # node modules
 node_modules
+
+settings.json

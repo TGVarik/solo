@@ -1,1 +1,0 @@
-Checkins = new Meteor.Collection('checkins');

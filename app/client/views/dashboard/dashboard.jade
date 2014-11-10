@@ -1,0 +1,11 @@
+//
+   Created by tom on 10/14/14.
+template(name="dashboard")
+   .dashboard
+      .page-header
+         h1 Dashboard
+      ul.list-group
+         each item in items
+            li.list-group-item #{item.name}
+               span.label.label-default #{item.rating}
+
